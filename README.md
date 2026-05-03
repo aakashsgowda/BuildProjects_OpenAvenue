@@ -142,7 +142,3 @@ text = "CHEST RADIOGRAPHY EXAM DATE: ..."
 entities = predict_entities(text, tokenizer, model)
 print(entities)
 ```
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify as needed.
